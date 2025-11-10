@@ -11,3 +11,5 @@ Main Features for this Project includes:
 - Interactive Dashboard, developed a ViteJS based analytics with ExpressJS on the backend to subscribing to Kafka Consumer.
 
 All of those technologies resulting in real-time transaction streaming, product recommendation, and interactive both dashboard and graph visualization to deliver actionable insights from a large-scale customer and sales data, both in real-time or batch data processing.
+
+<img width="1449" height="1464" alt="arsitekturwallmart-Page-1 drawio" src="https://github.com/user-attachments/assets/8b7ab00e-2c7c-475d-ae94-66c5ec6b351e" />
